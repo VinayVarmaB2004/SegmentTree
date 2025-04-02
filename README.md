@@ -1,0 +1,1 @@
+This project implements a Segment Tree to efficiently perform range queries (Min, Max, Sum, Product) and updates on an array. It features an interactive Streamlit UI for easy visualization and interaction. 🚀
